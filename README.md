@@ -1,2 +1,5 @@
 # Web-Development
-This is my first front-end web page and it content all the resources which i used it, also it helpful to other because the modules cover from scratch. If someone start their journey in the field of web development then  you come at right place. Lets start it..
+I've just created this front-end web page to which i share some resources that helped me on my journey.
+A project from scratch: Follow along with the exact modules I used.
+For fellow beginners: If you're just starting in web development, this is the perfect place for you.
+Everything in one place: Find all the essential resources you need right here
